@@ -2,7 +2,7 @@
 // Send plain text headers and 'Hello World' to each client
 
 var http = require('http');
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8000;
 
 var counter = 0;
 
